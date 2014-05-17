@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
     s.author = { 'Michael Waterfall' => 'michaelwaterfall@gmail.com' }
     s.source = {
         :git => 'https://github.com/mwaterfall/MWPhotoBrowser.git',
-        :tag => '1.4.0'
+        :branch => 'custom'
     }
     s.platform = :ios, '5.1.1'
     s.source_files = 'MWPhotoBrowser/Classes/*.{h,m}'
