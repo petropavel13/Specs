@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
     s.homepage = 'https://github.com/mwaterfall/MWPhotoBrowser'
     s.author = { 'Michael Waterfall' => 'michaelwaterfall@gmail.com' }
     s.source = {
-        :git => 'https://github.com/mwaterfall/MWPhotoBrowser.git',
+        :git => 'https://github.com/petropavel13/MWPhotoBrowser.git',
         :branch => 'custom'
     }
     s.platform = :ios, '5.1.1'
