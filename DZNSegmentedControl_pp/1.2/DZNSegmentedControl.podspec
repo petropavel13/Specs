@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name         = "DZNSegmentedControl"
+  s.name         = "DZNSegmentedControl_pp"
   s.version      = "1.2"
   s.summary      = "A drop-in replacement for UISegmentedControl for showing counts, to be used typically on a user profile"
   s.homepage     = "https://github.com/dzenbot/DZNSegmentedControl"
