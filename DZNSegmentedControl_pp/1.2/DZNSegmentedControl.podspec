@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |s|
   s.name         = "DZNSegmentedControl_pp"
   s.version      = "1.2"
